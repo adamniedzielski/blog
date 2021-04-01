@@ -1,24 +1,11 @@
 ---
 layout: post
 title: "Black-box testing"
-date: 2014-05-19 20:53:52 +0200
-comments: true
-categories:
-- Ruby
-- Ruby on Rails
-- testing
-- black-box
-- white-box
-- Capybara
-- calabash-android
-- Android testing
 ---
 
 This time I want to share my thoughts concerning two approaches to testing - **black-box** testing and **white-box** testing. I gave a talk about it at Łódź Ruby User Group. You can find the slides [here](http://adamniedzielski.github.io/presentations/black-box-testing/).
 
 The presentation took place some time before [DHH's keynote at Railsconf 2014](http://www.confreaks.com/videos/3315-railsconf-keynote-writing-software) and before [#isTDDDead discussion](https://twitter.com/search?q=%23isTDDDead) began. However, there is a connection: DHH encourages to write ["higher level system tests"](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html) and in this post I express slightly more balanced opinion on black-box testing.
-
-<!-- more -->
 
 ### White-box
 

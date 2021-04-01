@@ -1,18 +1,9 @@
 ---
 layout: post
 title: "wroclove.rb 2014"
-date: 2014-03-21 18:00:00 +0100
-comments: true
-categories: 
-- Ruby
-- Ruby on Rails
-- conference
-- Java
 ---
 
 Here you can find a couple of my personal opinions about talks at [wroclove.rb 2014](http://wrocloverb.com/) which took place in March 14th - 16th in Wrocław. I tried to keep my feedback 100% positive in order not to upset anybody, but if you are - write a comment and we'll discuss.
-
-<!-- more -->
 
 ## Day 0 - Soft skills 
 
