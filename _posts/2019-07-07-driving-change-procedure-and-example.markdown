@@ -13,7 +13,7 @@ know how to explain the problem, present your solution, list the advantages,
 share the necessary context and knowledge, address concerns and divide the
 change into smaller steps.
 
-In ["The only constant is change - scaling our processes with weekly retrospectives"](https://engineering.liefery.com/2019/05/08/the-only-constant-is-change-scaling-our-processes-with-weekly-retrospectives.html)
+In ["The only constant is change - scaling our processes with weekly retrospectives"](https://liefery-it-legacy.github.io/blog/2019/05/08/the-only-constant-is-change-scaling-our-processes-with-weekly-retrospectives.html)
 I'm showing how we're using weekly retrospectives at Liefery as a starting point
 for driving change. If reflecting on the current team processes is an integral
 part of your culture then suggesting improvements is also much easier for your
@@ -21,7 +21,7 @@ team members.
 
 Another important thing about change is that it always takes time. In a mature
 team things won't change just like that. Some changes have to be spread over
-a period of time. In ["Our road from remote-friendly to remote-first"](https://engineering.liefery.com/2018/11/29/our-road-from-remote-friendly-to-remote-first.html)
+a period of time. In ["Our road from remote-friendly to remote-first"](https://liefery-it-legacy.github.io/blog/2018/11/29/our-road-from-remote-friendly-to-remote-first.html)
 I'm describing one of the more interesting transformations that happened at
 Liefery and took over a year. It's a good example of driving change and the blog
 post mentions a few different tools you can use to drive change.
