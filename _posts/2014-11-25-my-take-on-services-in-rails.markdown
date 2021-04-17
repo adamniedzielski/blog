@@ -211,3 +211,59 @@ Following suggestions in the comments, I've prepared a dummy app to demonstrate 
 Four and half years after writing this blog post and the Rails community still
 does not have a standard way of writing service objects :) You can read what my
 fellow programmer Paweł thinks about [service objects in Rails](https://pawelurbanek.com/2018/02/12/ruby-on-rails-service-objects-and-testing-in-isolation/).
+
+#### Update 17.04.2021
+
+This blog post remains one of my personal favorites!
+The approaches presented in this blog post still hold for me and I reach for
+them in new projects.
+
+There's one syntactical change that I made after the feedback of my
+colleagues from Liefery. That's using keyword arguments with default values
+in `initialize` which eliminates the need for the separate `build` method.
+
+Here's the last example rewritten:
+
+```ruby
+class CreateUserAccount
+  def initialize(generate_token: GenerateToken.new, send_welcome_email: SendWelcomeEmail.new)
+    self.generate_token = generate_token
+    self.send_welcome_email = send_welcome_email
+  end
+
+  def call(params)
+    # code which creates user model
+    [...]
+    generate_token.call(user)
+    send_welcome_email.call(user)
+    user
+  end
+
+  private
+
+  attr_accessor :generate_token, :send_welcome_email
+end
+```
+
+```ruby
+class CreateUserAccount
+  class GenerateToken
+    def call(user)
+      [...]
+    end
+  end
+end
+```
+
+```ruby
+class CreateUserAccount
+  class SendWelcomeEmail
+    def call(user)
+      [...]
+    end
+  end
+end
+```
+
+You can see this applied in practice, for example, [here](https://github.com/adamniedzielski/neue_wohnung/blob/8725cb9889aae34d5b88bb7e3133d5f7848c8ac5/app/services/get_new_apartments.rb).
+And tests become very explicit and simple like [here](https://github.com/adamniedzielski/neue_wohnung/blob/8725cb9889aae34d5b88bb7e3133d5f7848c8ac5/spec/services/get_new_apartments_spec.rb).
