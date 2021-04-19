@@ -14,3 +14,7 @@ In the past when I was starting a new side project I'd try to fulfill these thre
 As you may suspect, these three goals are really hard to fulfill at once. I'd usually give up at the stage of learning the new technology or setting up
 the test environment. I didn't have any visible results at the beginning so I was not motivated to continue with the project. And a similar pattern would repeat for many different ideas.
 
+This changed when a good friend of mine came to me with an idea for an application that he needed. He was searching for a new flat in Berlin and noticed that for a certain kind of companies (state-owned companies, landeseigene Wohnungsbaugesellschaften) the offers were disappearing very quickly after being published on the website. Often it was a matter of 30-60 minutes. My friend would receive an email notification about 2-3 hours afterwards, but at this point most of the offers were already gone. His idea was to develop an application that continuously checks the websites of these companies and sends a notification as soon as a new offer is available. And he needed my help.
+
+We made an appointment for a "hacking evening". I was hoping that we can get something up and running within a few hours. All in all, the functionality was simple web scraping. I wanted to use some ready solution as much as possible. I didn't want to reinvent the wheel and I didn't have that much motivation.
+
