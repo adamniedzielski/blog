@@ -43,7 +43,7 @@ I was working at a slow, steady pace, trying to enjoy the every moment of it. As
 
 After a few days of working I had the first version and could actually start sending notifications to my friend. This meant that I was receiving feedback early and could adjust the application based on it, without making too many false assumptions.
 
-Was the fast "hacking evening" with Python a wasted time? No, not really. Thanks to this session I learned that Telegram is a messaging app where it's extremely easy to send messages programmaticaly and how to create my own Telegram bot. From the time perspective I think about it as prototyping session, although during the actual session I didn't have this prototyping mindset.
+Was the fast "hacking evening" with Python a wasted time? No, not really. Thanks to this session I learned that Telegram is a messaging app where it's extremely easy to send messages programmatically and how to create my own Telegram bot. From the time perspective I think about it as prototyping session, although during the actual session I didn't have this prototyping mindset.
 
 ### Next boring steps
 
