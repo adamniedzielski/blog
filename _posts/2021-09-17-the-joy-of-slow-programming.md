@@ -155,3 +155,6 @@ I attribute this success to the philosophy of "slow programming" that I followed
 2. move in small steps, don't rush, and appreciate the little learnings that
 come every day
 3. stay motivated by making a tiny but visible improvement with each step
+
+Happy slow coding!
+
