@@ -114,7 +114,7 @@ only thing that I knew for sure was that I need to store a unique identifier for
 each apartment to avoid sending duplicated notifications after each subsequent
 check. That's why I added a mandatory `external_id` field. Everything else ended
 up in a JSONB `properties` field. This was simple and allowed me to move fast
-with delivering business value while moving slow with technical assumptions.
+with delivering value while moving slow with technical assumptions.
 
 ### Starting to use the app myself
 
@@ -148,7 +148,7 @@ it and from that moment on things moved fast. Next day I had a viewing and
 within a week I signed the contract.
 
 The application that I developed as a side project scored me a new apartment!
-That's my most successful side project so far.
+That means it's my most successful side project so far.
 
 I attribute this success to the philosophy of "slow programming" that I followed:
 1. put a hard limit on the time per day that you invest into the side project
