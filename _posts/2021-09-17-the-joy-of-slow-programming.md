@@ -120,8 +120,8 @@ with delivering value while moving slow with technical assumptions.
 
 A month or two have passed and guess what? I found myself in a need for a new
 apartment. Yes, I had to move out from my flat share and find a new apartment
-for myself. The application that I originally developed for my friend became my
-own hope on the cruel Berlin flat market.
+for myself. The application that I originally developed for my friend became
+a useful tool for my own apartment search.
 
 I was particularly interested in scoring an apartment in one of the housing
 associations (Wohnungsgenossenschaften), because they provide stable and secure
