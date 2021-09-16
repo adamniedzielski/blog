@@ -63,7 +63,8 @@ know - Ruby, Nokogiri, Rails, and Heroku.
 2. no more than one hour of work on the project per day
 3. focus on delivering the smallest possible thing that actually provides some
 value to my friend
-4. strive for simplicity from the technical perspective and not perfection
+4. write the first simple solution that works instead of striving for technical
+perfection
 
 I thought about them as defining my new mindset of "slow programming". And this
 is how [Neue Wohnung](https://github.com/adamniedzielski/neue_wohnung) was born.
