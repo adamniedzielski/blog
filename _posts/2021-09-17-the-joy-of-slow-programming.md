@@ -71,10 +71,10 @@ If you look at the commits in the reverse order you can see that I started with
 the implementation, added tests soon, but not immediately, and configured CI
 after I had a running version in production.
 
-I was working at a slow, steady pace, trying to enjoy the every moment of it.
+I was working at a slow, steady pace, trying to enjoy every moment of it.
 As I removed the pressure of time from myself, I could actually enjoy the
 little details like a [new Rubocop rule that I didn't know before](https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Lint/ConstantDefinitionInBlock)
-or read up on [libraries that I was considering to use](https://github.com/bblimke/webmock).
+or read up on [libraries that I was considering using](https://github.com/bblimke/webmock).
 
 After a few days of working I had the first version and could actually start
 sending notifications to my friend. This meant that I was receiving feedback
@@ -109,8 +109,8 @@ abstraction was lightweight so I didn't have to modify it. I just wrote this
 one particular scraper differently.
 
 At some point I introduced the Apartment model to the application. At this
-stage I wasn't yet sure what data I can actually get in a consistent way. The
-only thing that I knew for sure was that I need to store a unique identifier for
+stage I wasn't yet sure what data I could actually get in a consistent way. The
+only thing that I knew for sure was that I needed to store a unique identifier for
 each apartment to avoid sending duplicated notifications after each subsequent
 check. That's why I added a mandatory `external_id` field. Everything else ended
 up in a JSONB `properties` field. This was simple and allowed me to move fast
