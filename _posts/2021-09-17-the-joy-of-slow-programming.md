@@ -103,8 +103,9 @@ The classes were simple and could fit in a single screen. The actual business
 logic - getting information from the HTML using Nokogiri and regular expressions
 - was unique to each company website; with very few common elements.
 
-This approach paid off as soon as I found the first website loading data
-dynamically from an unsecured JSON API :) Because of the lack of any
+This approach of not making too many assumptions paid off as soon as I had to
+parse JSON instead of HTML. That happened when I found the first website loading
+data dynamically from an unsecured JSON API :) Because of the lack of any
 authentication it was just easier to access the JSON API directly. My
 abstraction was lightweight so I didn't have to modify it. I just wrote this
 one particular scraper differently.
