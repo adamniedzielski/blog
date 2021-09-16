@@ -82,9 +82,9 @@ early and could adjust the application based on it, without making too many
 false assumptions.
 
 Was the fast "hacking evening" with Python a wasted time? No, not really.
-Thanks to this session I learned that Telegram is a messaging app where it's
+Thanks to this session I learned that Telegram is a messaging app for which it's
 extremely easy to send messages programmatically and how to create my own
-Telegram bot. From the time perspective I think about it as prototyping session,
+Telegram bot. From the time perspective I think about it as a prototyping session,
 although during the actual session I didn't have this prototyping mindset.
 
 ### Next boring steps
@@ -118,7 +118,7 @@ with delivering value while moving slow with technical assumptions.
 
 ### Starting to use the app myself
 
-A month or two have passed and guess what? I found myself in a need for a new
+A month or two had passed and guess what? I found myself in a need for a new
 apartment. Yes, I had to move out from my flat share and find a new apartment
 for myself. The application that I originally developed for my friend became
 a useful tool for my own apartment search.
