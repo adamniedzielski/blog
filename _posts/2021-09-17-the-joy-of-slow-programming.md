@@ -161,3 +161,6 @@ come every day
 
 Happy slow coding!
 
+*Thank you [Ariane](https://twitter.com/_ariaru),
+[Jonathan](https://twitter.com/jnsyaaaa),
+and [Jolyon](https://twitter.com/jpawlyn) for reviewing the blog post.*
