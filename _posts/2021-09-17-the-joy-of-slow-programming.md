@@ -101,8 +101,8 @@ I always started by copy pasting the previous scraper and the tests for it.
 The code was repetitive but I avoided reaching for any
 [early abstractions](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction).
 The classes were simple and could fit in a single screen. The actual business
-logic - getting information from the HTML using Nokogiri and regular expressions
-- was unique to each company website; with very few common elements.
+logic - getting information from the HTML using Nokogiri and regular expressions -
+was unique to each company website; with very few common elements.
 
 This approach of not making too many assumptions paid off as soon as I had to
 parse JSON instead of HTML. That happened when I found the first website loading
