@@ -2,7 +2,9 @@ title: Adam Niedzielski
 description: Happy teams create great products
 baseurl: ""
 url: "https://blog.sundaycoding.com"
-twitter_username: niedzielskiadam
+mastodon:
+- username: adam_von_sonntag
+  instance: chaos.social
 github_username:  adamniedzielski
 permalink: /blog/:year/:month/:day/:title/
 
