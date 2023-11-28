@@ -13,7 +13,7 @@ Only **written** down, **recorded** communication brings anything. Wait for **le
 
 The best money went to the people who **sued the company**. Do you have a **Rechtsschutzversicherung** (insurance to protect from legal costs)? As far as I know you won't be able to join if there's already a situation going on.
 
-Are you in a workers union like for example **[Vereinte Dienstleistungsgewerkschaft (ver.di)]**(https://tech.verdi.de/) or **IG Metall**? It doesn't matter which of these two, they both work hand-in-hand in **Berlin** 🤝. If yes, you're probably not even reading at this point, because you're **calling your union**.
+Are you in a workers union like for example [Vereinte Dienstleistungsgewerkschaft ver.di](https://tech.verdi.de/) or **IG Metall**? It doesn't matter which of these two, they both work hand-in-hand in **Berlin** 🤝. If yes, you're probably not even reading at this point, because you're **calling your union**.
 
 If not, it may be already too late to **join a union**. That said, I've heard about some exceptional offers if **many people join together**. Something like a bulk discount for **Berlin Tech Workers** Week. They are not public, though.
 
